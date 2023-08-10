@@ -49,8 +49,9 @@
   color: #000;
 }
 
-.p.white {
+p.white {
   color: #fff;
+  font-family: 'Bahiana Regular';
 }
 
 .form {
