@@ -89,7 +89,7 @@
 }
 @font-face1  {
   font-family: 'Bahiana Regular';
-  src: url('../fonts/Bahiana-Regular.ttf') format('truetype');
+  src: url('../fonts/Bahiana-Regular.otf') format('opentype');
   font-weight: 400;
 }
 
