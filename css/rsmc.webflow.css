@@ -51,8 +51,7 @@
 
 .p.white {
   color: #fff;
-  font-family: Bahiana, regular;
-  src: url('../fonts/Bahiana-Regular.ttf') format('truetype');
+  font-family: Bahiana Regular;
   font-weight: 400;
 }
 
@@ -88,12 +87,10 @@
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: 'BahianaReg';
+@font-face1  {
+  font-family: 'Bahiana Regular';
   src: url('../fonts/Bahiana-Regular.ttf') format('truetype');
   font-weight: 400;
-  font-style: regular;
-  font-display: swap;
 }
 
 
