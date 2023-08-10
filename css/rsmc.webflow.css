@@ -52,6 +52,7 @@
 .p.white {
   color: #fff;
   font-family: Bahiana, regular;
+  src: url('../fonts/Bahiana-Regular.ttf') format('truetype');
   font-weight: 400;
 }
 
