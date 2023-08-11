@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css?family=Behiana:400);
+
 .black-bg {
   background-color: #000;
 }
@@ -87,10 +89,6 @@
   font-style: normal;
   font-display: swap;
 }
-@font-face1  {
-  font-family: 'Bahiana variant0';
-  src: url('../fonts/Bahiana-Regular.otf') format('opentype');
-  font-weight: 400;
-}
+
 
 
