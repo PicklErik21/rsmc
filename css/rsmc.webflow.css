@@ -90,7 +90,7 @@
 
 @font-face {
   font-family: 'Bahiana';
-  src: url('../fonts/Bahiana-Regular.otf') format('opentype');
+  src: url('../fonts/Bahiana-Regular.ttf') format('truetype');
   font-weight: 400;
 }
 
