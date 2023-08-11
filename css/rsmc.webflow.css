@@ -51,6 +51,10 @@
 
 .p.white {
   color: #fff;
+}
+
+div .p.white {
+  color: #fff;
   font-family: Bahiana, Tofu;
   font-weight: 400;
 }
@@ -87,6 +91,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face  {
   font-family: 'Bahiana';
   src: url('../fonts/Bahiana-Regular.ttf') format('truetype');
